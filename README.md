@@ -6,8 +6,6 @@ A starter kit for html/css people to get into urbit ux/ui building
 
 given you have the [urbit binary]() installed into a directory `~/urbit/` and have created a fake ship called `zod`.
 
-(todo maybe: section "i don't know what that means with starting from scratch?)
-
 ```
        ~ $ cd zod
    ~/zod $ git clone https://github.com/afknapping/sail-skeleton.git
