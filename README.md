@@ -12,34 +12,17 @@ given you have the [urbit binary]() installed and have created a fake ship calle
 ~/zod $ ..
 $ ./urbit zod
 ~zod:dojo> |merge %sail-skeleton our %webterm
-```
-
-## Write sail
-
-```
-(tba: edit, commit, refresh browser)
-```
-
-## Stop urbit
-
-```
 ~zod:dojo> |exit
+$ rm zod/sail-skeleton
 ```
 
-## Pick up work
+## Work
 
 ```
 $ ./urbit zod
 ~zod:dojo> |mount %sail-skeleton
-
 ```
-
-## what do things mean and do?
-
-|commit
-|mount
-|merge
-|exit
+(tba: edit, commit, refresh browser)
 
 
 ## Minimum version
