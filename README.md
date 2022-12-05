@@ -50,6 +50,7 @@ given you have the [urbit binary]() installed into a directory `~/urbit/` and ha
 ## Minimum version
 
 - [ ] hello world renders in the browser after cloning the repo and copypasting a few commands into terminal and dojo
+- [ ] sail-containing file can be edited and committed, browser refresh reflects edits
 
 ### other ideas
 
