@@ -2,6 +2,46 @@
 
 A starter kit for html/css people to get into urbit ux/ui building
 
+## Init
+
+given you have the [urbit binary]() installed and have created a fake ship called `zod`
+
+```
+~ $ cd zod
+~/zod $ git clone git@github.com:afknapping/sail-skeleton.git 
+~/zod $ ..
+$ ./urbit zod
+~zod:dojo> |merge %sail-skeleton our %webterm
+```
+
+## Write sail
+
+```
+(tba: edit, commit, refresh browser)
+```
+
+## Stop urbit
+
+```
+~zod:dojo> |exit
+```
+
+## Pick up work
+
+```
+$ ./urbit zod
+~zod:dojo> |mount %sail-skeleton
+
+```
+
+## what do things mean and do?
+
+|commit
+|mount
+|merge
+|exit
+
+
 ## Minimum version
 
 - [ ] hello world renders in the browser after cloning the repo and copypasting a few commands into terminal and dojo
