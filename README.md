@@ -34,8 +34,10 @@ $ ./urbit zod
 - [ ] [autocommit](https://operators.urbit.org/manual/os/dojo-tools#autocommit) changes
 - [ ] use [arthyn/gin-tonic](https://github.com/arthyn/gin-tonic): ship sync and sail hot reloading for urbit development
 - [ ] example mock data in various types
-- [ ] example ui components
+- [ ] example ui components as single-file components
 - [ ] scribble wireframe styles from [diskurs-prototype](https://github.com/afknapping/diskurs-prototype/blob/main/src/_sac1-tools.sass#L33-L56) / [Houdini Rough boxes](https://css-houdini.rocks/rough-boxes/)
+- [ ] replit project
+- [ ] replit template
 
 
 ## Thx
