@@ -4,7 +4,9 @@ A starter kit for html/css people to get into urbit ux/ui building
 
 ## Init
 
-given you have the [urbit binary]() installed into a directory `~/urbit/` and have created a fake ship called `zod`
+given you have the [urbit binary]() installed into a directory `~/urbit/` and have created a fake ship called `zod`.
+
+(todo maybe: section "i don't know what that means with starting from scratch?)
 
 ```
        ~ $ cd zod
@@ -27,15 +29,23 @@ given you have the [urbit binary]() installed into a directory `~/urbit/` and ha
 ~zod:dojo> |mount %sail-skeleton
 ```
 
+- Ppen <http://localhost:80/app/sail-skeleton/> in browser
 - Open `~/urbit/zod/` in a Finder window (or any other file explorer)
-- There should be a folder "sail-skeleton"
+- There should be a folder `sail-skeleton/` and a file `sail-skeleton/app/index.hoon` – **edit away and take a look at [the Sail guide](https://developers.urbit.org/guides/additional/sail)**
   - **⚠️ `README.md` and `app/mine.hoon` are missing⚠️**
-- edit (sail file still missing)
-- `|commit`
+- `|commit` changes
+- reload browser
 
+### Gossary
 
-(tba: edit, commit, refresh browser)
+- [Commit](https://developers.urbit.org/reference/glossary/commit)
+- [Desk](https://developers.urbit.org/reference/glossary/desk)
 
+### Further Reading
+
+- [Introduction to Hoon](https://developers.urbit.org/guides/core/hoon-school/A-intro)
+
+---
 
 ## Minimum version
 
