@@ -60,6 +60,7 @@ given you have the [urbit binary]() installed into a directory `~/urbit/` and ha
 - [ ] replit project
 - [ ] replit template
 - [ ] integrate [rudder](https://github.com/Fang-/suite/blob/master/lib/rudder.hoon)
+- [ ] [dalten-collective/color](https://github.com/dalten-collective/color/): A library for various color format conversion, in hoon + desaturation and deluminance functions
 
 
 ## Thx
