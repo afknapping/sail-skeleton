@@ -59,6 +59,7 @@ given you have the [urbit binary]() installed into a directory `~/urbit/` and ha
 - [ ] scribble wireframe styles from [diskurs-prototype](https://github.com/afknapping/diskurs-prototype/blob/main/src/_sac1-tools.sass#L33-L56) / [Houdini Rough boxes](https://css-houdini.rocks/rough-boxes/)
 - [ ] replit project
 - [ ] replit template
+- [ ] integrate [rudder](https://github.com/Fang-/suite/blob/master/lib/rudder.hoon)
 
 
 ## Thx
